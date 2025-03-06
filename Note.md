@@ -1,9 +1,5 @@
 # 笔记
 
-## cargo
+## [cargo 编译器](./document/cargo.md)
 
-不让cargo自动生成git库
-
-```plain
-cargo new my_project --vcs=none
-```
+## [变量](./document/variable.md)
